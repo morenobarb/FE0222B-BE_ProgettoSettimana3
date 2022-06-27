@@ -1,0 +1,6 @@
+[id: 5 nome: ADOLFO cognome: ROSSI genere:M
+, id: 6 nome: BENITO cognome: BIANCHI genere:M
+, id: 7 nome: TERESA cognome: VIOLA genere:F
+, id: 8 nome: ENZO cognome: RATTO genere:M
+, id: 9 nome: LAURA cognome: SIGNORI genere:F
+]

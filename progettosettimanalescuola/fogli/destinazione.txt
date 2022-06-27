@@ -1,0 +1,6 @@
+[id: 0 nome: PIETRO cognome: PARODI genere:M
+, id: 1 nome: CRISTIANO cognome: RONALDO genere:M
+, id: 2 nome: ANDREA cognome: ANDREI genere:M
+, id: 3 nome: MARIA cognome: LOURDES genere:F
+, id: 4 nome: CRISTINA cognome: CANEPA genere:F
+]
